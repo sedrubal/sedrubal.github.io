@@ -1,0 +1,11 @@
+{
+  "name": "sedrubal.github.io",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/sedrubal/sedrubal.github.io.git",
+  "author": "sedrubal <dev@sedrubal.de>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4"
+  }
+}
